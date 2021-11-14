@@ -24,4 +24,4 @@ Focus of project:
   * CSS
 
   ## Launch
-  Please click on github link to launch project.
+  Please click on github link to launch project. https://elease123.github.io/Professional-Portfolio/
