@@ -26,4 +26,5 @@ Focus of project:
   ## Launch
   Please click on github link to launch project. https://elease123.github.io/Professional-Portfolio/
   
-  ![Uploading Professional-Portfolio.png…]()
+  ![professional-portfolio](https://user-images.githubusercontent.com/89282394/141698414-3ce0deb4-ce8c-4b9f-b4a8-4afdfc80535e.png)
+
