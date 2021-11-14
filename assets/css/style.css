@@ -5,12 +5,13 @@
 }
 body{
     font-family: Arial, Helvetica, sans-serif;
-
+    overflow: scroll;
 }
+
 /*HEADER SECTION*/
 header {
     padding: 20px;
-    background-color: beige;
+    background-color: lightskyblue;
 }
 
 header h1 {
@@ -70,11 +71,12 @@ img {
     margin-right: auto;
     
 }
-  
+
+
 /*FOOTER SECTION*/
 
 footer {
-    background:beige;
+    background:lightskyblue;
     width: 100%;
     padding: 35px 35px;
 }
